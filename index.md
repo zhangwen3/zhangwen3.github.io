@@ -13,7 +13,7 @@ Interested in NMT, NLP and ML.
 ## Publications
 **Wen Zhang**, Yang Feng, Fandong Meng, Di You and Qun Liu. 2019. [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426). In _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ **(ACL 2019)**, pages 4334-4343, Florence, Italy, July 28th-August 2nd, 2019. Association for Computational Linguistics. [code](https://github.com/ictnlp/OR-NMT) **[CCF A类会议]** **[ACL 2019 Best Long Paper Award]**
 
-**Wen Zhang**, Yang Feng and Qun Liu. 2021. Bridging the Gap between Training and Inference for Neural Machine Translation$^{*}$. In _Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence_ **(IJCAI-20)** Sister Conferences Best Papers Track, Kyoto, Japan. January 5-10, 2021. [code](https://github.com/ictnlp/OR-NMT) **[CCF A类会议]**
+**Wen Zhang**, Yang Feng and Qun Liu. 2021. Bridging the Gap between Training and Inference for Neural Machine Translation. In _Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence_ **(IJCAI-20)** Sister Conferences Best Papers Track, Kyoto, Japan. January 5-10, 2021. [code](https://github.com/ictnlp/OR-NMT) **[CCF A类会议]**
 
 Yang Feng, Wanying Xie, Shuhao Gu, Chenze Shao, **Wen Zhang**, Zhengxin Yang, Dong Yu. 2020. Modeling Fluency and Faithfulness for Diverse Neural Machine Translation. In _Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence_ **(AAAI-20)**, New York, USA. February 7-12, 2020. [code](https://github.com/ictnlp/DiverseNMT) **[CCF A类会议]**
 
