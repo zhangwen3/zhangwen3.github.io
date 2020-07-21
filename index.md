@@ -1,4 +1,4 @@
-## Wen Zhang (张文) <img src="IMG_6526.JPG" style="zoom:30%" align=right />
+## Wen Zhang (张文) <img src="IMG_6526.JPG" style="zoom:20%" align=right />
 
 **[ACL 2019 Best Long Paper Award]:**
 
