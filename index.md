@@ -1,11 +1,14 @@
 ## Wen Zhang (张文) <img src="IMG_6526.JPG" style="zoom:30%" align=right />
 
-Working in Smart Platform Product Department of Tencent Inc., Beijing, China. **[Intern recruiting ...]**
+**[ACL 2019 Best Long Paper Award]:**
+
+[Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426)
+
+Now working in Smart Platform Product Department of Tencent Inc., Beijing, China.
+
+**[Intern recruiting ...]**
 
 Interested in NMT, NLP and ML.
-
-**[ACL 2019 Best Long Paper Award]:** [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426)
-
 
 ## Personal Information
 
