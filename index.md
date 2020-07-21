@@ -1,4 +1,4 @@
-## Wen Zhang (张文) ![Image](src)
+## Wen Zhang (张文) ![Image](IMG_6526.JPG)
 
 Working in Smart Platform Product Department of Tencent Inc., Beijing, China. **Intern recruiting ...**
 Interested in NMT, NLP and ML.
