@@ -1,6 +1,6 @@
-## Wen Zhang (张文) <center>
+## Wen Zhang (张文) <right>
 <img src="IMG_6526.JPG" style="zoom:20%" />
-</center>
+</right>
 
 **[ACL 2019 Best Long Paper Award]:**
 
