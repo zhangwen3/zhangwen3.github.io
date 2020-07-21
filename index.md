@@ -1,16 +1,13 @@
-## Wen Zhang (张文)
+## Wen Zhang (张文) ![Image](src)
 
-You can use the [editor on GitHub](https://github.com/zhang-wen/zhangwen.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Working in Smart Platform Product Department of Tencent Inc., Beijing, China. **Intern recruiting ...**
+Interested in NMT, NLP and ML.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**[ACL 2019 Best Long Paper Award]:** [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426)
+
+I had implemented a NMT system based on RNNsearch seq2seq model and some variants by using Pytorch deep learning framework. [Code](https://github.com/zhang-wen/wenmt}
 
 ## Personal Information
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-[^_^]:
-    ```markdown
-    Syntax highlighted code block
 
 ## Publications
 **Wen Zhang**, Yang Feng, Fandong Meng, Di You and Qun Liu. 2019. [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426). In _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ **(ACL 2019)**, pages 4334-4343, Florence, Italy, July 28th-August 2nd, 2019. Association for Computational Linguistics. [code](https://github.com/ictnlp/OR-NMT) **[CCF A类会议]** **[ACL 2019 Best Long Paper Award]**
@@ -32,18 +29,3 @@ Wenbin Jiang, **Wen Zhang**, Jinan Xu, and Rangjia Cai. 2016. [Automatic Cross-L
 **Wen Zhang**, Qiuye Zhao, Wenbin Jiang and Qun Liu, [Bilingually Induced Clause Parser for Tree-based Translation](http://www.ai-ia.ac.cn/cwmt2015/file/CWMT2015\%E4\%BC\%9A\%E8\%AE\%AE\%E8\%AE\%BA\%E6\%96\%87-05.pdf). In _Proceedings of the 11th China Workshop on Machine Translation_ **(CWMT 2015)**, pages 30-35, Hefei, AnHui, China, September 23-25, 2015. **[国内会议]**
 
 Yong Shan, Yang Feng, Jinchao Zhang, Fandong Meng, **Wen Zhang**. Improving Bidirectional Decoding with Dynamic Target Semantics in Neural Machine Translation. **[Arxiv]**
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhang-wen/zhangwen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
