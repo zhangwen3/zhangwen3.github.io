@@ -1,4 +1,6 @@
-## Wen Zhang (张文) <img src="IMG_6526.JPG" style="zoom:20%" align=right />
+## Wen Zhang (张文) <center>
+<img src="IMG_6526.JPG" style="zoom:20%" />
+</center>
 
 **[ACL 2019 Best Long Paper Award]:**
 
@@ -9,8 +11,6 @@ Now working in Smart Platform Product Department of Tencent Inc., Beijing, China
 **[Intern recruiting ...]**
 
 Interested in NMT, NLP and ML.
-
-## Personal Information
 
 ## Publications
 **Wen Zhang**, Yang Feng, Fandong Meng, Di You and Qun Liu. 2019. [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426). In _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ **(ACL 2019)**, pages 4334-4343, Florence, Italy, July 28th-August 2nd, 2019. Association for Computational Linguistics. [code](https://github.com/ictnlp/OR-NMT) **[CCF A类会议]** **[ACL 2019 Best Long Paper Award]**
