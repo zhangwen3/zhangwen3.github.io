@@ -1,4 +1,4 @@
-## Wen Zhang (张文) <img src="IMG_6526.JPG" style="zoom:20%" />
+## Wen Zhang (张文) <img src="IMG_6526.JPG" style="zoom:30%" div align=right />
 
 Working in Smart Platform Product Department of Tencent Inc., Beijing, China. **[Intern recruiting ...]**
 
