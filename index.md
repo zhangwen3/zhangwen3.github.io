@@ -4,7 +4,7 @@
 
 [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426)
 
-Now working in Smart Platform Product Department of Tencent Inc., Beijing, China.
+Currently working at Smart Platform Product Department of Tencent Inc., Beijing, China.
 
 **[Intern recruiting ...]**
 
